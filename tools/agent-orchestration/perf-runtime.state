@@ -1,0 +1,5 @@
+lane=perf-runtime
+state=finished
+task=reuse Markov scheduler scratch buffers after speculative prefetch notify_all/atomic telemetry
+updated=2026-09-21T21:44:00-03:00
+evidence=markov_update active/candidates scratch now thread_local clear+reserve, removing repeated allocator churn after capacity warm-up without changing ordering or scores; CPU Release rebuilt test-wackmall-tier-score and test-wackmall-cold; both passed; no CUDA build or tok/s claim

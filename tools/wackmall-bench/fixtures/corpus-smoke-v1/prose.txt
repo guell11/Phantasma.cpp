@@ -1,0 +1,1 @@
+At dawn, the compiler finished quietly, leaving only a clean log and six carefully measured prompts for the next benchmark run.

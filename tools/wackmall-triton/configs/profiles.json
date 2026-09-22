@@ -1,0 +1,54 @@
+{
+  "small_m": [
+    {
+      "name": "small_m_m1",
+      "block_m": 1,
+      "block_n": 64,
+      "block_k": 32,
+      "num_warps": 4,
+      "num_stages": 2
+    },
+    {
+      "name": "small_m_m2",
+      "block_m": 2,
+      "block_n": 64,
+      "block_k": 32,
+      "num_warps": 4,
+      "num_stages": 2
+    },
+    {
+      "name": "small_m_m4",
+      "block_m": 4,
+      "block_n": 64,
+      "block_k": 32,
+      "num_warps": 4,
+      "num_stages": 2
+    }
+  ],
+  "prefill": [
+    {
+      "name": "prefill_m8",
+      "block_m": 8,
+      "block_n": 64,
+      "block_k": 32,
+      "num_warps": 4,
+      "num_stages": 3
+    },
+    {
+      "name": "prefill_m16",
+      "block_m": 16,
+      "block_n": 64,
+      "block_k": 32,
+      "num_warps": 4,
+      "num_stages": 3
+    },
+    {
+      "name": "prefill_n128",
+      "block_m": 8,
+      "block_n": 128,
+      "block_k": 32,
+      "num_warps": 8,
+      "num_stages": 3
+    }
+  ]
+}

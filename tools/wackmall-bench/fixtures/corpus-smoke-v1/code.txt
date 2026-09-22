@@ -1,0 +1,2 @@
+def stable_pairs(prompts):
+    return [(item["sha256"], item["token_length"]) for item in prompts]

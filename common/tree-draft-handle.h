@@ -1,0 +1,35 @@
+#pragma once
+
+#include <stdint.h>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+typedef uint64_t common_tree_draft_c_runtime_handle;
+typedef uint64_t common_tree_draft_c_session_handle;
+typedef uint64_t common_tree_draft_c_request_handle;
+
+typedef enum common_tree_draft_c_handle_status {
+    COMMON_TREE_DRAFT_C_HANDLE_STATUS_OK = 0,
+    COMMON_TREE_DRAFT_C_HANDLE_STATUS_INVALID_ARGUMENT,
+    COMMON_TREE_DRAFT_C_HANDLE_STATUS_INVALID_HANDLE,
+    COMMON_TREE_DRAFT_C_HANDLE_STATUS_REFCOUNT_OVERFLOW,
+    COMMON_TREE_DRAFT_C_HANDLE_STATUS_ALLOCATION_FAILED,
+} common_tree_draft_c_handle_status;
+
+common_tree_draft_c_handle_status common_tree_draft_c_runtime_create(common_tree_draft_c_runtime_handle * out);
+common_tree_draft_c_handle_status common_tree_draft_c_runtime_retain(common_tree_draft_c_runtime_handle handle);
+common_tree_draft_c_handle_status common_tree_draft_c_runtime_release(common_tree_draft_c_runtime_handle handle);
+
+common_tree_draft_c_handle_status common_tree_draft_c_session_create(common_tree_draft_c_session_handle * out);
+common_tree_draft_c_handle_status common_tree_draft_c_session_retain(common_tree_draft_c_session_handle handle);
+common_tree_draft_c_handle_status common_tree_draft_c_session_release(common_tree_draft_c_session_handle handle);
+
+common_tree_draft_c_handle_status common_tree_draft_c_request_create(common_tree_draft_c_request_handle * out);
+common_tree_draft_c_handle_status common_tree_draft_c_request_retain(common_tree_draft_c_request_handle handle);
+common_tree_draft_c_handle_status common_tree_draft_c_request_release(common_tree_draft_c_request_handle handle);
+
+#ifdef __cplusplus
+}
+#endif

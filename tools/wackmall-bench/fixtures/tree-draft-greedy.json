@@ -1,0 +1,19 @@
+{
+  "model": "target.gguf",
+  "draft_model": "draft.gguf",
+  "prompt_set": "smoke-v1",
+  "batch": 1,
+  "n_ctx": 4096,
+  "tree_shape": {
+    "depth": 4,
+    "branching": [4, 3, 2, 1]
+  },
+  "sampling": {
+    "temperature": 0.0,
+    "top_k": 0,
+    "top_p": 1.0
+  },
+  "seed": 1,
+  "backend": "CUDA",
+  "device": "0"
+}

@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="phantasma" x1="86" y1="78" x2="426" y2="436" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 42c-94.4 0-171 76.6-171 171v181.8c0 18.1 21.3 27.7 34.9 15.7l38.6-34.3 42.1 35.4a20 20 0 0 0 25.8 0l29.6-24.9 29.6 24.9a20 20 0 0 0 25.8 0l42.1-35.4 38.6 34.3c13.6 12 34.9 2.4 34.9-15.7V213c0-94.4-76.6-171-171-171Z" fill="url(#phantasma)"/>
+  <circle cx="196" cy="225" r="22" fill="#090B10"/>
+  <circle cx="316" cy="225" r="22" fill="#090B10"/>
+  <path d="M194 299c33 28 91 28 124 0" stroke="#090B10" stroke-width="20" stroke-linecap="round"/>
+  <path d="M117 171c37-69 103-99 178-88" stroke="white" stroke-opacity=".24" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,5 @@
+lane=TreeDraft-Bonsai
+state=finished
+task=ID_086 paged KV GQA/MQA head mapping
+updated=2026-09-21T21:48:00-03:00
+evidence=ID_086 manifest+kv-head-map+focused test+CMake accepted; Release CPU target build PASS; test-tree-draft-kv-head-map ctest PASS; DAG validate.py PASS 400/951/58; ID_085 status row reconciled from prior accepted heartbeat

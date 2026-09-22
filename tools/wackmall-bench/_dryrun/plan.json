@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "PP",
+    "tokens": 16,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "cold"
+  },
+  {
+    "mode": "PP",
+    "tokens": 16,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "warm"
+  },
+  {
+    "mode": "PP",
+    "tokens": 17,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "cold"
+  },
+  {
+    "mode": "PP",
+    "tokens": 17,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "warm"
+  },
+  {
+    "mode": "TG",
+    "tokens": 8,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "cold"
+  },
+  {
+    "mode": "TG",
+    "tokens": 8,
+    "batch": 32,
+    "ubatch": 16,
+    "threads": 2,
+    "s": 4,
+    "tmax": 16,
+    "sidecar": "warm"
+  }
+]

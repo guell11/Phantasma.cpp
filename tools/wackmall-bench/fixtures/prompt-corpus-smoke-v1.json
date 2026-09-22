@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "corpus_id": "smoke-v1",
+  "tokenizer": {
+    "name": "utf8-byte-v1",
+    "sha256": "5f806a16e7e157dd28d27624b9fb1efd1176745902b6e0a0fd051ae3efffab1d"
+  },
+  "prompts": [
+    {
+      "id": "short",
+      "category": "short",
+      "file": "corpus-smoke-v1/short.txt",
+      "sha256": "d8dabce443aa3a1d3baa3164bed7dd46760633a2fc797402c5115dfbbc4af743",
+      "token_length": 23
+    },
+    {
+      "id": "medium",
+      "category": "medium",
+      "file": "corpus-smoke-v1/medium.txt",
+      "sha256": "a8c04badabbc5011d9fcb16f25940b5c2248b5da7051e2d158b020e8801cf7d1",
+      "token_length": 128
+    },
+    {
+      "id": "long",
+      "category": "long",
+      "file": "corpus-smoke-v1/long.txt",
+      "sha256": "d5b07b1262c29f837f8ae9b1f85412509040e5500f7093e5c21ec072469dfa0d",
+      "token_length": 580
+    },
+    {
+      "id": "code",
+      "category": "code",
+      "file": "corpus-smoke-v1/code.txt",
+      "sha256": "2f74a8223b0e68b54804e2c87dcc88284ce121eee64564c5d7ae310195044e82",
+      "token_length": 99
+    },
+    {
+      "id": "prose",
+      "category": "prose",
+      "file": "corpus-smoke-v1/prose.txt",
+      "sha256": "3982e2a2e674908568744563c9847ba677f78475c9d40fe27683099ffc715471",
+      "token_length": 128
+    },
+    {
+      "id": "adversarial",
+      "category": "adversarial",
+      "file": "corpus-smoke-v1/adversarial.txt",
+      "sha256": "7468a0c64b42706c6bc6730992f6ba327aee765ec8659fddd54ba2b91b87d469",
+      "token_length": 131
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "add": [
+    {
+      "consumer": "ID_018",
+      "dependency": "ID_021",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_021",
+      "dependency": "ID_007",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_029",
+      "dependency": "ID_026",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_032",
+      "dependency": "ID_023",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_045",
+      "dependency": "ID_042",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_050",
+      "dependency": "ID_046",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_051",
+      "dependency": "ID_001",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_055",
+      "dependency": "ID_002",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_078",
+      "dependency": "ID_060",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_083",
+      "dependency": "ID_010",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_086",
+      "dependency": "ID_021",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_087",
+      "dependency": "ID_023",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_088",
+      "dependency": "ID_006",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_089",
+      "dependency": "ID_085",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_090",
+      "dependency": "ID_161",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_091",
+      "dependency": "ID_016",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_092",
+      "dependency": "ID_003",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_099",
+      "dependency": "ID_085",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_099",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_102",
+      "dependency": "ID_001",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_103",
+      "dependency": "ID_004",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_106",
+      "dependency": "ID_299",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_107",
+      "dependency": "ID_056",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_111",
+      "dependency": "ID_044",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_113",
+      "dependency": "ID_038",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_140",
+      "dependency": "ID_106",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_140",
+      "dependency": "ID_115",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_143",
+      "dependency": "ID_045",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_150",
+      "dependency": "ID_111",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_150",
+      "dependency": "ID_138",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_150",
+      "dependency": "ID_292",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_151",
+      "dependency": "ID_001",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_151",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_153",
+      "dependency": "ID_293",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_155",
+      "dependency": "ID_006",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_155",
+      "dependency": "ID_088",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_155",
+      "dependency": "ID_296",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_156",
+      "dependency": "ID_002",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_157",
+      "dependency": "ID_010",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_159",
+      "dependency": "ID_014",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_160",
+      "dependency": "ID_005",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_161",
+      "dependency": "ID_011",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_164",
+      "dependency": "ID_032",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_164",
+      "dependency": "ID_093",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_165",
+      "dependency": "ID_047",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_167",
+      "dependency": "ID_138",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_167",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_169",
+      "dependency": "ID_038",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_174",
+      "dependency": "ID_044",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,C,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_174",
+      "dependency": "ID_111",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_177",
+      "dependency": "ID_116",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) C,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_183",
+      "dependency": "ID_113",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_183",
+      "dependency": "ID_114",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_183",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_184",
+      "dependency": "ID_112",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_192",
+      "dependency": "ID_033",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_194",
+      "dependency": "ID_096",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_199",
+      "dependency": "ID_070",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_213",
+      "dependency": "ID_056",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_214",
+      "dependency": "ID_001",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_214",
+      "dependency": "ID_102",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_215",
+      "dependency": "ID_081",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_216",
+      "dependency": "ID_022",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_219",
+      "dependency": "ID_029",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_220",
+      "dependency": "ID_273",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_221",
+      "dependency": "ID_093",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_221",
+      "dependency": "ID_141",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_221",
+      "dependency": "ID_164",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_239",
+      "dependency": "ID_145",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_250",
+      "dependency": "ID_391",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) E; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_266",
+      "dependency": "ID_236",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_275",
+      "dependency": "ID_286",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_276",
+      "dependency": "ID_022",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_286",
+      "dependency": "ID_023",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_286",
+      "dependency": "ID_087",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_286",
+      "dependency": "ID_201",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_286",
+      "dependency": "ID_216",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_286",
+      "dependency": "ID_220",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_295",
+      "dependency": "ID_021",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_295",
+      "dependency": "ID_052",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_295",
+      "dependency": "ID_086",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_296",
+      "dependency": "ID_088",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) F; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_309",
+      "dependency": "ID_101",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_310",
+      "dependency": "ID_109",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_350",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_350",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_352",
+      "dependency": "ID_149",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_352",
+      "dependency": "ID_164",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_352",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_355",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_356",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_357",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_358",
+      "dependency": "ID_149",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_358",
+      "dependency": "ID_164",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_359",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_359",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_360",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_360",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_361",
+      "dependency": "ID_164",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_361",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_364",
+      "dependency": "ID_077",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_365",
+      "dependency": "ID_238",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_366",
+      "dependency": "ID_044",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_366",
+      "dependency": "ID_111",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_366",
+      "dependency": "ID_174",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_367",
+      "dependency": "ID_172",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_367",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_367",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_368",
+      "dependency": "ID_035",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_368",
+      "dependency": "ID_197",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_369",
+      "dependency": "ID_115",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_369",
+      "dependency": "ID_184",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_369",
+      "dependency": "ID_198",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_370",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_371",
+      "dependency": "ID_173",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_371",
+      "dependency": "ID_175",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_371",
+      "dependency": "ID_180",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_371",
+      "dependency": "ID_198",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_372",
+      "dependency": "ID_188",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_372",
+      "dependency": "ID_199",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_373",
+      "dependency": "ID_181",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_373",
+      "dependency": "ID_182",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_373",
+      "dependency": "ID_198",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_374",
+      "dependency": "ID_067",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_374",
+      "dependency": "ID_190",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_375",
+      "dependency": "ID_070",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_375",
+      "dependency": "ID_189",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_375",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_376",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_379",
+      "dependency": "ID_050",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_379",
+      "dependency": "ID_100",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_379",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_379",
+      "dependency": "ID_200",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_379",
+      "dependency": "ID_299",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_380",
+      "dependency": "ID_093",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_380",
+      "dependency": "ID_317",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_380",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_381",
+      "dependency": "ID_089",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) B,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_382",
+      "dependency": "ID_109",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_382",
+      "dependency": "ID_190",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_382",
+      "dependency": "ID_318",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_383",
+      "dependency": "ID_005",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_383",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_383",
+      "dependency": "ID_160",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_384",
+      "dependency": "ID_070",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_384",
+      "dependency": "ID_191",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_384",
+      "dependency": "ID_199",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) D; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_386",
+      "dependency": "ID_094",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_386",
+      "dependency": "ID_319",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_018",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_045",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_047",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_050",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_100",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_387",
+      "dependency": "ID_222",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_388",
+      "dependency": "ID_319",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_392",
+      "dependency": "ID_386",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_395",
+      "dependency": "ID_392",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_399",
+      "dependency": "ID_386",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_050",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) A,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_100",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_150",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_200",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_250",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_300",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_400",
+      "dependency": "ID_350",
+      "reason": "Reviewed semantic dependency from dependency audit pillar(s) G,H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    }
+  ],
+  "remove": [
+    {
+      "consumer": "ID_021",
+      "dependency": "ID_018",
+      "reason": "Reviewed semantic removal from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_029",
+      "dependency": "ID_027",
+      "reason": "Reviewed semantic removal from dependency audit pillar(s) A; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_367",
+      "dependency": "ID_366",
+      "reason": "Reviewed semantic removal from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_371",
+      "dependency": "ID_366",
+      "reason": "Reviewed semantic removal from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    },
+    {
+      "consumer": "ID_383",
+      "dependency": "ID_378",
+      "reason": "Reviewed semantic removal from dependency audit pillar(s) H; the detailed ownership and correctness rationale is recorded in the corresponding audit document."
+    }
+  ]
+}
