@@ -26,28 +26,9 @@
 
 **phantasma.cpp** is a high-performance local LLM inference engine focused on one slightly unreasonable goal:
 
-> **Run models that should not comfortably fit on your hardware — and make them fast anyway.**
-
-Instead of treating VRAM, system RAM, expert placement, KV cache, memory transfers and speculative decoding as separate problems, phantasma.cpp treats them as parts of the **same scheduling problem**.
-
-The engine is designed especially around large sparse **Mixture-of-Experts (MoE)** models running on constrained consumer hardware.
-
-Current development targets include:
-
-* **Gemma 4 26B A4B**
-* **Qwen3.6 35B A3B**
-* **Qwen3.5 122B A10B**
-* 8 GB consumer GPUs
-* constrained system RAM
-* long-context inference
-* speculative decoding with Tree-MTP
-
-Created and maintained by **guell11**.
-
 GitHub: [`@guell11`](https://github.com/guell11)
 Hugging Face: [`guell00`](https://huggingface.co/guell00)
 
-See [`BRANDING.md`](BRANDING.md) for project identity and branding guidelines.
 
 ---
 
