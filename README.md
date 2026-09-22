@@ -53,7 +53,9 @@ See [`BRANDING.md`](BRANDING.md) for project identity and branding guidelines.
 
 ## Demo
 
-https://github.com/user-attachments/assets/phantasma.mp4
+
+https://github.com/user-attachments/assets/18aef630-5e7c-400a-ba49-f88ef87230d9
+
 
 > The repository also contains the original demo as `phantasma.mp4`.
 >
