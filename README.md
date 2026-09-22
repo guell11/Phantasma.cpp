@@ -37,12 +37,6 @@ Hugging Face: [`guell00`](https://huggingface.co/guell00)
 
 https://github.com/user-attachments/assets/18aef630-5e7c-400a-ba49-f88ef87230d9
 
-
-> The repository also contains the original demo as `phantasma.mp4`.
->
-> GitHub does not reliably render repository-local MP4 files through standard Markdown.
-> For the best README experience, upload `phantasma.mp4` to a GitHub issue/release/discussion, copy the generated `user-attachments` URL and replace the URL above.
-
 ---
 
 ## Why phantasma.cpp?
